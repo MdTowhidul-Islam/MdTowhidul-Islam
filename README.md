@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Towhidul Islam Tazim</h1>
 <h3 align="center">when feel like quitting,think about what started</h3>
-<img align = "right" alt="coding" width="400" src="https://i.gifer.com/81RA.gif">
+<img align = "right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdtowhidul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="mdtowhidul-islam" /> </p>
 
